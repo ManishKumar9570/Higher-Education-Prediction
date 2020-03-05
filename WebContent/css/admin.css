@@ -1,0 +1,44 @@
+#admin{
+border:1px solid #0000CC;
+height:40px;
+width:16.2%;
+margin-left:16px;
+margin-top:-29px;
+background-color:#990000;
+}
+
+#admin2{
+border:1px solid #0000CC;
+height:40px;
+width:16.3%;
+padding:0px;
+margin-top:-39.88px;
+float:right;
+background-color:#990000;
+}
+.menu{
+
+color:#FFFFFF;
+font-size:20px;
+}
+.main a #admin:hover{
+color:#000000;
+background-color:#009900;
+}
+.main a #admin2:hover{
+color:#000000;
+background-color:#009900;
+}
+.search{
+height:35px; 
+width:85%; 
+margin-right:0px;
+}
+.submit{
+height:35px; 
+width:100%; 
+color:#FFFFFF; 
+background-color:#009900;
+font-size:18px;
+}
+
